@@ -15,6 +15,7 @@ Chatbot Python sederhana untuk informasi kesehatan dasar dan cek gejala ringan.
 2. Install Package:
    ```bash
    pip install -r requirements.txt
+   ```
 
 
 
