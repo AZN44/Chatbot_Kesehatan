@@ -9,7 +9,7 @@ import asyncio
 
 from pydantic import SerializationInfo
 
-API = Groq(api_key="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")
+API = Groq(api_key="API GROQ DISINI")
 
 
 class AppC(ft.Column):
